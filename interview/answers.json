@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "completed": false,
+    "last_updated": null,
+    "total_questions": 30,
+    "sections": ["identity", "how_i_think", "how_i_build", "how_i_communicate", "intellectual_universe", "active_context"]
+  },
+  "identity": {
+    "q1_essence": "",
+    "q2_contrarian_belief": "",
+    "q3_childhood_obsession": "",
+    "q4_greatest_strength": "",
+    "q5_biggest_frustration": ""
+  },
+  "how_i_think": {
+    "q6_decision_process": "",
+    "q7_mental_models": "",
+    "q8_signature_question": "",
+    "q9_stuck_protocol": "",
+    "q10_best_decision": ""
+  },
+  "how_i_build": {
+    "q11_gsl_mission": "",
+    "q12_k12_broken": "",
+    "q13_theory_of_change": "",
+    "q14_hard_yes_list": "",
+    "q15_hard_no_list": "",
+    "q16_live_decisions": "",
+    "q17_success_in_5_years": ""
+  },
+  "how_i_communicate": {
+    "q18_voice_sample": "",
+    "q19_humour_signature": "",
+    "q20_overused_phrases": "",
+    "q21_never_say_list": "",
+    "q22_register_shifts": ""
+  },
+  "intellectual_universe": {
+    "q23_five_thinkers": "",
+    "q24_world_changing_book": "",
+    "q25_cross_domain_superpower": "",
+    "q26_thinker_to_argue": "",
+    "q27_what_clone_must_get_right": ""
+  },
+  "active_context": {
+    "q28_active_projects": "",
+    "q29_avoided_decision": "",
+    "q30_clone_tasks": ""
+  }
+}
